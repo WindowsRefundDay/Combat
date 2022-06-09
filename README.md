@@ -1,7 +1,7 @@
 # Incognito
 Access the world wide web
 
-# Setup
+# Setup (for linux machines only)
 ```
 git clone https://github.com/WindowsRefundDay/Incognito.git
 cd Incognito
