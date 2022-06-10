@@ -1,9 +1,9 @@
-# Incognito
-Access the world wide web
+# Combat 360
+DEFEAT WAKE COUNTY WITH INCOGNITO!!!
 
 # Setup (for linux machines only)
 ```
-git clone https://github.com/WindowsRefundDay/Incognito.git
+git clone https://github.com/WindowsRefundDay/Combat-360.git
 cd Incognito
 git submodule update --init
 ```
