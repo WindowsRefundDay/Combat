@@ -58,5 +58,9 @@
         "title": "Y8",
         "img": "./img/apps/y8.png",
         "location": "https://www.y8.com"
-    }
+    },
+    {
+        "title": "Rainway"
+        "img": "./img/apps/rainway.png"
+        "location": https://play.rainway.com"
 ]
