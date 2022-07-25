@@ -1,7 +1,7 @@
 # Combat 360
 DEFEAT WAKE COUNTY WITH INCOGNITO!!!
 
-# Setup (for linux machines only)
+# Setup (for debian based distros)
 ```
 git clone https://github.com/WindowsRefundDay/Combat-360.git
 cd Incognito
@@ -49,7 +49,7 @@ Folder prefixes in `uv.sw.js` and `uv.config.js` will have to be changed to wher
 `/uv.sw.js` --> `/uv/uv.sw.js`
 
 # Games
-Games are not included by default due to the extremely large size of them. 
+Games are not included by default due to the extremely large size of them. They need to be put in the games folder
 
 ```
 git clone https://github.com/caracal-js/gfiles.git source
