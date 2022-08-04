@@ -3,7 +3,7 @@ DEFEAT WAKE COUNTY WITH INCOGNITO!!!
 
 # Setup (for debian based distros)
 ```
-git clone https://github.com/WindowsRefundDay/Combat-360.git
+git clone https://github.com/WindowsRefundDay/Combat.git
 cd Incognito
 git submodule update --init
 ```
